@@ -18,5 +18,5 @@ on the homepage or portfolio? Just to show I tried (and succeeded! (hopefully...
 ## The Nitty Gritty 
 &nbsp;&nbsp;&nbsp;&nbsp; After listening to your video this week, I wanted to looked more into APIs (Application Performance Interface) and what software I would/could use to create 
 this professional website/e-portfolio. I am still not completely sure how an API would function on my site, but I am willing to continue to learn. Otherwise, I really enjoy a the horror
-ARG "Welcome Home". They produce very impressive content and the website is built to be beautiful, interactive, and simple. Research reveleade the SquareSpace was used to develop this 
+ARG "Welcome Home". They produce very impressive content and the website is built to be beautiful, interactive, and simple. Research revealed that SquareSpace was used to develop this 
 site and so, I might try and use that software for my own site! 
